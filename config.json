@@ -1,0 +1,12 @@
+{
+    "bot": {
+        "username": "Dino_Bot",
+        "oauth": "oauth:<token>",
+        "channels": ["<channel_name>"]
+    },
+    "help_commands": ["!h", "!help"],
+    "up_commands": ["!u", "!up", "!jump"],
+    "down_commands": ["!d", "!down", "!duck"],
+    "width": 1280,
+    "height": 740
+}
